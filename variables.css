@@ -1,0 +1,54 @@
+:root{
+    --color-gris-1:#F3EBEB;
+    --color-gris-2:#C4C4C4;
+    --color-gris-3:#828282;
+    --color-gris-4:#4F4F4F;
+    --color-blue:#2F80ED;
+    
+}
+
+/*
+.texto{
+color: #000;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.texto2{
+color: #000;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.texto3{
+color: #000;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}*/
+
+
+
+
+/*<div class="skills_bar">
+                <label for="file">HTML</label>
+             <progress id="file" max="100" value="70">70%</progress>
+             </div>
+             <div class="skills_bar">
+                <label for="file">CSS</label>
+             <progress id="file" max="100" value="70">70%</progress>
+             </div>
+             <div class="skills_bar">
+                <label for="file">JS</label>
+                <progress id="file" max="100" value="70">70%</progress>
+             </div>
+             <div class="skills_bar">
+                <label for="file">React</label>
+                <progress id="file" max="100" value="70">70%</progress>
+             </div>
