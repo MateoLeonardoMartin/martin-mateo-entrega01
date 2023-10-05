@@ -161,20 +161,6 @@ progress {
 
 .button_proyects {
     padding: 12px 16px;
-    background-color: rgba(47, 128, 237, 1);
-    color: white;
-    border: none;
-    border-radius: 12px;
-    cursor: pointer;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    font-family: Montserrat;
-}
-
-.buttons_proyects {
-    padding: 12px 16px;
     background: rgb(255, 255, 255);
     color: var(--gray-2, #4F4F4F);
     border-radius: 12px;
@@ -187,6 +173,12 @@ progress {
     font-family: Montserrat;
 }
 
+
+
+.button_proyects:hover{
+    background-color: #008062;
+    color: #fff;
+    }
 /*PORFOLIO*/
 .main_container_portfolio {
     width: 462px;
@@ -432,6 +424,17 @@ progress {
     display: flex;
     justify-content: center;
     flex-direction: column;
+}
+
+.mostrarboton{
+    background-color: rgba(47, 128, 237, 1);
+    border: none;
+    color: white;
+    
+}
+
+.mostrarboton:hover{
+    background-color: rgb(0, 60, 255);
 }
 
 /*MEDIA QUERY*/
